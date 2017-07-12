@@ -1,2 +1,3 @@
-# belajar
-Ini untuk latihan
+belajar git
+tambahan kedua
+tambahan ketiga
